@@ -1,0 +1,14 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+.app{
+  min-height: 98vh;
+  border: 8px solid gray;
+  margin: 4px;
+  padding: 4px;
+}
+
